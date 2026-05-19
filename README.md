@@ -6,14 +6,12 @@
 
 ## 🛠️ Tech Stack
 
-- 💡 Languages: Python, JavaScript, etc.
-- ⚙️ Frameworks: Aiogram, Node.js, etc.
-- 🗄️ Databases: PostgreSQL, etc.
-- 🧰 Tools: Git, Docker, VS Code
+- 💡 Languages: Python, JavaScript.
+- ⚙️ Frameworks: Aiogram, Telegraf, etc.
+- 🗄️ Databases: PostgreSQL, SQLite.
+- 🧰 Tools: Git, Docker, JetBrains, etc.
 
 ## 🌐 Connect with me
 
 - Email: me@murakaev.dev
 - Telegram: @murakaevtt
-
-⭐️ Feel free to check out my repositories and give a star if you like my work!
